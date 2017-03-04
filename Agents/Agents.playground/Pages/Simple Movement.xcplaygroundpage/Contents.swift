@@ -31,10 +31,10 @@ let west = 6
 let northWest = 7
 
 // Set the step size (travel distance per iteration)
-let stepSize = 1
+let stepSize = 5
 
 // Set the pixel size
-let diameter = 10
+let diameter = 7
 
 // Generate a starting position
 var x = random(from: 50, toButNotIncluding: canvas.width - 50)
