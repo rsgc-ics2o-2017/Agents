@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		81634C8F1E4CAB780099C732 /* Agents */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Agents; sourceTree = BUILT_PRODUCTS_DIR; };
+		81634C8F1E4CAB780099C732 /* Agents */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Agents; path = /Users/russellgordon/Documents/Repositories/ICS2O/Agents/build/Debug/Agents; sourceTree = "<absolute>"; };
 		81A46BB41E5631F400E7C0CB /* Agents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Agents.playground; path = Agents/Agents.playground; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -38,16 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				81634C911E4CAB780099C732 /* Agents */,
-				81634C901E4CAB780099C732 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		81634C901E4CAB780099C732 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				81634C8F1E4CAB780099C732 /* Agents */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		81634C911E4CAB780099C732 /* Agents */ = {
@@ -104,7 +95,7 @@
 				en,
 			);
 			mainGroup = 81634C861E4CAB780099C732;
-			productRefGroup = 81634C901E4CAB780099C732 /* Products */;
+			productRefGroup = 81634C861E4CAB780099C732;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
